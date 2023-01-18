@@ -1,3 +1,5 @@
 {
-    "settings-repository.repository": "https://github.com/YuuRikka/VSCode-Settings-Repository.git"
+    "settings-repository.repository": "https://github.com/YuuRikka/VSCode-Settings-Repository.git",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula"
 }

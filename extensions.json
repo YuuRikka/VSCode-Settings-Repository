@@ -1,7 +1,127 @@
 [
     {
+        "identifier": "alefragnani.project-manager",
+        "version": "12.7.0",
+        "enabled": true
+    },
+    {
+        "identifier": "amiralizadeh9480.laravel-extra-intellisense",
+        "version": "0.6.2",
+        "enabled": true
+    },
+    {
+        "identifier": "AnbuselvanRocky.bootstrap5-vscode",
+        "version": "0.4.2",
+        "enabled": true
+    },
+    {
+        "identifier": "bradlc.vscode-tailwindcss",
+        "version": "0.9.6",
+        "enabled": true
+    },
+    {
+        "identifier": "christian-kohler.path-intellisense",
+        "version": "2.8.4",
+        "enabled": true
+    },
+    {
+        "identifier": "codingyu.laravel-goto-view",
+        "version": "1.3.8",
+        "enabled": true
+    },
+    {
+        "identifier": "dracula-theme.theme-dracula",
+        "version": "2.24.2",
+        "enabled": true
+    },
+    {
+        "identifier": "eamodio.gitlens",
+        "version": "13.2.0",
+        "enabled": true
+    },
+    {
+        "identifier": "EditorConfig.EditorConfig",
+        "version": "0.16.4",
+        "enabled": true
+    },
+    {
+        "identifier": "esbenp.prettier-vscode",
+        "version": "9.10.4",
+        "enabled": true
+    },
+    {
+        "identifier": "formulahendry.auto-close-tag",
+        "version": "0.5.14",
+        "enabled": true
+    },
+    {
+        "identifier": "formulahendry.auto-complete-tag",
+        "version": "0.1.0",
+        "enabled": true
+    },
+    {
+        "identifier": "formulahendry.auto-rename-tag",
+        "version": "0.1.10",
+        "enabled": true
+    },
+    {
+        "identifier": "glitchbl.laravel-create-view",
+        "version": "0.0.6",
+        "enabled": true
+    },
+    {
+        "identifier": "IHunte.laravel-blade-wrapper",
+        "version": "1.0.1",
+        "enabled": true
+    },
+    {
         "identifier": "Katsute.settings-repository",
         "version": "1.0.2",
+        "enabled": true
+    },
+    {
+        "identifier": "mikestead.dotenv",
+        "version": "1.0.1",
+        "enabled": true
+    },
+    {
+        "identifier": "naoray.laravel-goto-components",
+        "version": "1.2.0",
+        "enabled": true
+    },
+    {
+        "identifier": "onecentlin.laravel-blade",
+        "version": "1.32.0",
+        "enabled": true
+    },
+    {
+        "identifier": "onecentlin.laravel-extension-pack",
+        "version": "1.1.0",
+        "enabled": true
+    },
+    {
+        "identifier": "onecentlin.laravel5-snippets",
+        "version": "1.15.0",
+        "enabled": true
+    },
+    {
+        "identifier": "PKief.material-icon-theme",
+        "version": "4.23.1",
+        "enabled": true
+    },
+    {
+        "identifier": "ryannaddy.laravel-artisan",
+        "version": "0.0.28",
+        "enabled": true
+    },
+    {
+        "identifier": "shufo.vscode-blade-formatter",
+        "version": "0.20.7",
+        "enabled": true
+    },
+    {
+        "identifier": "svelte.svelte-vscode",
+        "version": "107.0.1",
         "enabled": true
     }
 ]
