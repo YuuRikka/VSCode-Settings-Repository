@@ -15,6 +15,11 @@
         "enabled": true
     },
     {
+        "identifier": "bmewburn.vscode-intelephense-client",
+        "version": "1.9.4",
+        "enabled": true
+    },
+    {
         "identifier": "bradlc.vscode-tailwindcss",
         "version": "0.9.6",
         "enabled": true
@@ -77,6 +82,11 @@
     {
         "identifier": "Katsute.settings-repository",
         "version": "1.0.2",
+        "enabled": true
+    },
+    {
+        "identifier": "kokororin.vscode-phpfmt",
+        "version": "1.0.31",
         "enabled": true
     },
     {
