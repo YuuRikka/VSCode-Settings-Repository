@@ -10,5 +10,8 @@
     "**/htdocs": true
   },
   "terminal.integrated.fontFamily": "'MesloLGS NF'",
-  "intelephense.diagnostics.undefinedTypes": false
+  "intelephense.diagnostics.undefinedTypes": false,
+  "[php]": {
+    "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+  }
 }
