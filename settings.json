@@ -3,7 +3,6 @@
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Dracula",
   "editor.fontFamily": "'Cascadia Code SemiLight', 'Droid Sans Mono', 'monospace', monospace",
-  "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.wordWrap": "on",
   "files.exclude": {
