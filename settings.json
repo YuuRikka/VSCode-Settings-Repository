@@ -13,5 +13,6 @@
   "intelephense.diagnostics.undefinedTypes": false,
   "[php]": {
     "editor.defaultFormatter": "kokororin.vscode-phpfmt"
-  }
+  },
+  "editor.fontLigatures": true
 }
