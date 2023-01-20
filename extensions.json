@@ -15,6 +15,11 @@
         "enabled": true
     },
     {
+        "identifier": "ardenivanov.svelte-intellisense",
+        "version": "0.7.1",
+        "enabled": true
+    },
+    {
         "identifier": "bmewburn.vscode-intelephense-client",
         "version": "1.9.4",
         "enabled": true
