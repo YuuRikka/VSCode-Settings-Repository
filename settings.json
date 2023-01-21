@@ -15,5 +15,6 @@
   },
   "editor.fontLigatures": true,
   "security.workspace.trust.emptyWindow": false,
-  "security.workspace.trust.enabled": false
+  "security.workspace.trust.enabled": false,
+  "svelte.enable-ts-plugin": true
 }
