@@ -13,5 +13,7 @@
   "[php]": {
     "editor.defaultFormatter": "kokororin.vscode-phpfmt"
   },
-  "editor.fontLigatures": true
+  "editor.fontLigatures": true,
+  "security.workspace.trust.emptyWindow": false,
+  "security.workspace.trust.enabled": false
 }
