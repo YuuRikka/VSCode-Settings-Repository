@@ -16,5 +16,12 @@
   "editor.fontLigatures": true,
   "security.workspace.trust.emptyWindow": false,
   "security.workspace.trust.enabled": false,
-  "svelte.enable-ts-plugin": true
+  "svelte.enable-ts-plugin": true,
+  "explorer.confirmDelete": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  }
 }
